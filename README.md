@@ -16,6 +16,7 @@ My understanding about React
 1. props in a child component
 2. state with Hooks
 3. state with inline conditional
+4. react lifecycle methods
 
 ## What are the advantages of React16?
 

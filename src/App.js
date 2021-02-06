@@ -13,6 +13,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1 className="App-title">React16 Functional Component</h1>
       {/* {toggle ? <UserInput text="Welcome to React" /> : null} */}
       {toggle && <UserInput text="Welcome to React" />}
       <button onClick={handleToggle}>Show/Hide</button>
